@@ -6,10 +6,11 @@
 <!-- Intro -->
 <p align="left">I build clean, modern apps using tools I enjoy and trust. Here's what I work with:</p>
 
+###
 <!-- Horizontal Icon Row -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,java,js,npm,react,tailwind,unity,php " />
   </a>
 </p>
 
