@@ -10,7 +10,7 @@
 <!-- Horizontal Icon Row -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,java,js,npm,react,tailwind,unity,php " />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,java,js,npm,tailwind,unity " />
   </a>
 </p>
 
